@@ -18,7 +18,7 @@ Instructions:
 
 To open your webpage in the browser
 1. open your web browser (Chrome, FireFox, Safari, Opera etc - DO NOT USE INTERNET EXPLORER)
-2. Click file > open > index.html - your webpage will appear in the browser
+2. Click file > open > ottergram folder > select index.html (or you can navigate to the ottergram folder and click index.html) - your webpage will appear in the browser
     
 
     
